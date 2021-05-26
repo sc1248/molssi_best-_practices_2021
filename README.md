@@ -7,7 +7,7 @@ molecool
 
 A python package for analysing&visualizing  molecular files, Molissi. This package has a fuctions module.
 
-This  respository is curently under development. To do a developmental install, download this repository  
+This  respository is curently under development. To do a developmental install, download this repository --- lol ----  
 
 ### Copyright
 
